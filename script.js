@@ -209,11 +209,11 @@ function displayHomePage() {
            <div class="carousel" id="classics-carousel">
               <div class="carousel-items">
                    <div class="carousel-item">
-                       <img src="https://placehold.co/250x150" alt="Shoe 1">
+                       <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/w_723,c_limit/5f8626df-c9fc-4c9a-9569-c27799f14ce8/nike-just-do-it.png" alt="Shoe 1">
                        <h3>Air Max 1</h3>
                    </div>
                     <div class="carousel-item">
-                       <img src="https://placehold.co/250x150" alt="Shoe 2">
+                       <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4b0e15f1-824a-436e-9fd4-399699f312b8/AIR+MAX+DN.png" alt="Shoe 2">
                        <h3>Air Max DN</h3>
                    </div>
                    <div class="carousel-item">
@@ -221,7 +221,7 @@ function displayHomePage() {
                        <h3>Air Max 90</h3>
                     </div>
                    <div class="carousel-item">
-                        <img src="https://placehold.co/250x150" alt="Shoe 4">
+                        <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/w_1126,c_limit/59a78130-6d08-4bb7-ad13-0d4f8d03e620/nike-just-do-it.png" alt="Shoe 4">
                         <h3>Cortez</h3>
                     </div>
                    <div class="carousel-item">
