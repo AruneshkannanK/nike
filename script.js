@@ -340,39 +340,46 @@ function displayProductsPage() {
     <h2>Our Products</h2>
     <div class="products">
         <div class="product-card">
-          <img src="https://placehold.co/300x200/007bff/ffffff" alt="Shoe 1">
+          <img src="https://static.nike.com/a/images/f_auto/dpr_1.1,cs_srgb/h_488,c_limit/a3c971bc-bc0a-4c0c-8bdf-e807a3027e53/nike-just-do-it.jpg" alt="Shoe 1">
           <h3>Running Shoe</h3>
           <p>$100.00</p>
           <button onclick="addToCart(1)">Add to Cart</button>
            <a style="display:block; text-decoration: underline; margin-top: 5px; cursor:pointer" onclick="changePage('/product/1')">View Details</a>
         </div>
         <div class="product-card">
-          <img src="https://placehold.co/300x200/28a745/ffffff" alt="Shoe 2">
+          <img src="https://static.nike.com/a/images/f_auto/dpr_1.1,cs_srgb/h_488,c_limit/38ed4b8e-9cfc-4e66-9ddd-02a52314eed9/nike-just-do-it.jpg" alt="Shoe 2">
           <h3>Basketball Shoe</h3>
           <p>$120.00</p>
            <button onclick="addToCart(2)">Add to Cart</button>
            <a style="display:block; text-decoration: underline; margin-top: 5px; cursor:pointer"  onclick="changePage('/product/2')">View Details</a>
         </div>
         <div class="product-card">
-          <img src="https://placehold.co/300x200/dc3545/ffffff" alt="Shoe 3">
+          <img src="https://static.nike.com/a/images/f_auto/dpr_1.1,cs_srgb/w_440,c_limit/e36a4a2b-4d3f-4d1c-bc75-d6057b7cec87/nike-just-do-it.jpg" alt="Shoe 3">
           <h3>Training Shoe</h3>
           <p>$150.00</p>
             <button onclick="addToCart(3)">Add to Cart</button>
             <a style="display:block; text-decoration: underline; margin-top: 5px; cursor:pointer"  onclick="changePage('/product/3')">View Details</a>
         </div>
         <div class="product-card">
-          <img src="https://placehold.co/300x200/ffc107/ffffff" alt="Apparel 1">
+          <img src="https://tse2.mm.bing.net/th?id=OIP.noUsMP5E7s7XTi3ERZveMwHaJE&rs=1&pid=ImgDetMain" alt="Apparel 1">
           <h3>Running Shirt</h3>
           <p>$60.00</p>
             <button onclick="addToCart(4)">Add to Cart</button>
               <a style="display:block; text-decoration: underline; margin-top: 5px; cursor:pointer"  onclick="changePage('/product/4')">View Details</a>
          </div>
           <div class="product-card">
-          <img src="https://placehold.co/300x200/17a2b8/ffffff" alt="Apparel 2">
+          <img src="https://tse2.mm.bing.net/th?id=OIP.h6J08zi7EQj1FlVqpE13GgHaHa&rs=1&pid=ImgDetMain" alt="Apparel 2">
           <h3>Training Shorts</h3>
           <p>$40.00</p>
             <button onclick="addToCart(5)">Add to Cart</button>
               <a style="display:block; text-decoration: underline; margin-top: 5px; cursor:pointer"  onclick="changePage('/product/5')">View Details</a>
+         </div>
+         <div class="product-card">
+          <img src="https://tse1.mm.bing.net/th?id=OIP.9rxN4_bG_wKPdTLM-JO3KQHaHa&rs=1&pid=ImgDetMain" alt="Apparel 2">
+          <h3>Football Shorts</h3>
+          <p>$45.00</p>
+            <button onclick="addToCart(6)">Add to Cart</button>
+              <a style="display:block; text-decoration: underline; margin-top: 5px; cursor:pointer"  onclick="changePage('/product/6')">View Details</a>
          </div>
 
     </div>
