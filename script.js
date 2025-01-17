@@ -194,13 +194,13 @@ function displayHomePage() {
         <h2>Trending</h2>
            <div class="trending-items">
              <div class="trending-item">
-                 <img src="https://placehold.co/400x300" alt="Trend 1"/>
+                 <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/h_379,c_limit/0ebd455c-1c7e-4958-8c64-20eacc1d760d/image.png" alt="Trend 1"/>
              </div>
              <div class="trending-item">
-                 <img src="https://placehold.co/400x300" alt="Trend 2"/>
+                 <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/h_379,c_limit/b8dcd1ee-89c4-4ee7-8cbf-b06b4bdb2243/image.png" alt="Trend 2"/>
              </div>
             <div class="trending-item">
-                  <img src="https://placehold.co/400x300" alt="Trend 3"/>
+                  <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/h_379,c_limit/188c6b08-706f-4f90-85ca-41dc49f0824a/image.jpg" alt="Trend 3"/>
             </div>
           </div>
       </div>
@@ -209,31 +209,28 @@ function displayHomePage() {
            <div class="carousel" id="classics-carousel">
               <div class="carousel-items">
                    <div class="carousel-item">
-                       <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/w_723,c_limit/5f8626df-c9fc-4c9a-9569-c27799f14ce8/nike-just-do-it.png" alt="Shoe 1">
-                       <h3>Air Max 1</h3>
-                   </div>
-                    <div class="carousel-item">
-                       <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4b0e15f1-824a-436e-9fd4-399699f312b8/AIR+MAX+DN.png" alt="Shoe 2">
+                       <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/w_1513,c_limit/6fc47a68-4b41-4b16-910b-5d506f644e31/nike-just-do-it.png">
                        <h3>Air Max DN</h3>
                    </div>
-                   <div class="carousel-item">
-                        <img src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1c5fbad0-79d9-4aec-8f44-c51ca125dc34/AIR+MAX+90.png" alt="Shoe 3">
+                    <div class="carousel-item">
+                       <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/w_1126,c_limit/5f8626df-c9fc-4c9a-9569-c27799f14ce8/nike-just-do-it.png">
                        <h3>Air Max 90</h3>
-                    </div>
+                   </div>
+                   
                    <div class="carousel-item">
-                        <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/w_1126,c_limit/59a78130-6d08-4bb7-ad13-0d4f8d03e620/nike-just-do-it.png" alt="Shoe 4">
+                        <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/w_1513,c_limit/59a78130-6d08-4bb7-ad13-0d4f8d03e620/nike-just-do-it.png">
                         <h3>Cortez</h3>
                     </div>
                    <div class="carousel-item">
-                        <img src="https://placehold.co/250x150" alt="Shoe 5">
+                        <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/w_1513,c_limit/15f840ee-ecb2-4d30-af30-6ac8893947ce/nike-just-do-it.png">
                         <h3>Killshot</h3>
                     </div>
                    <div class="carousel-item">
-                        <img src="https://placehold.co/250x150" alt="Shoe 6">
+                        <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/w_1513,c_limit/f1c1e89f-6b14-41e0-80a6-a1332bf01ccc/nike-just-do-it.png" alt="Shoe 6">
                        <h3>Pegasus 41</h3>
                    </div>
                      <div class="carousel-item">
-                        <img src="https://placehold.co/250x150" alt="Shoe 7">
+                        <img src="https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/w_1513,c_limit/4150ed95-006a-4e59-9fec-6503c0b1f752/nike-just-do-it.png" alt="Shoe 7">
                        <h3>Vomero</h3>
                     </div>
               </div>
@@ -444,19 +441,19 @@ function displayShoppingCartPage() {
                   <div class="carousel" id="cart-carousel">
               <div class="carousel-items">
                    <div class="carousel-item">
-                       <img src="https://placehold.co/250x150" alt="Shoe 1">
+                       <img src="https://static.nike.com/a/images/t_PDP_864_v1,f_auto,q_auto:eco/0dc2c0a2-85c1-471c-81a2-989766ba6e8a/jr-mercurial-vapor-16-club-younger-mg-low-top-football-boot-mGVFqZ.png" alt="Shoe 1">
                        <h3>Nike Jr. Mercurial Vapor 16 Club</h3>
                     <p>Younger Kids' MG Low-Top Football Boot</p>
                     <p><b>MRP : ₹ 3 695.00</b></p>
                    </div>
                     <div class="carousel-item">
-                       <img src="https://placehold.co/250x150" alt="Shoe 2">
+                       <img src="https://static.nike.com/a/images/t_PDP_864_v1,f_auto,q_auto:eco/e92945de-c78c-4396-b102-336823037021/run-swift-3-road-running-shoes-BrHm16.png" alt="Shoe 2">
                         <h3>Nike Run Swift 3</h3>
                          <p>Men's Road Running Shoes</p>
                      <p><b> ₹ 5 977.00 <br> MRP :  ₹ 6 295.00</b></p>
                    </div>
                    <div class="carousel-item">
-                        <img src="https://placehold.co/250x150" alt="Shoe 3">
+                        <img src="https://static.nike.com/a/images/t_PDP_864_v1,f_auto,q_auto:eco/7eca899b-f236-4415-bd72-87e93ba188cf/dunk-low-retro-shoes-bCzchX.png" alt="Shoe 3">
                        <h3>Nike Dunk Low Retro</h3>
                         <p>Men's Shoes</p>
                          <p><b>MRP : ₹ 8 695.00</b></p>
