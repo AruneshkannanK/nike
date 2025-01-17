@@ -217,7 +217,7 @@ function displayHomePage() {
                        <h3>Air Max DN</h3>
                    </div>
                    <div class="carousel-item">
-                        <img src="https://placehold.co/250x150" alt="Shoe 3">
+                        <img src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1c5fbad0-79d9-4aec-8f44-c51ca125dc34/AIR+MAX+90.png" alt="Shoe 3">
                        <h3>Air Max 90</h3>
                     </div>
                    <div class="carousel-item">
